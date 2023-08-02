@@ -1,0 +1,35 @@
+.container{
+  /* border: 2px black solid; */
+  width: 100%;
+  /* margin: 2%; */
+  /* height: 300px; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  min-height: 90vh;
+  padding-top: 5%;
+}
+
+.pointUse{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+}
+
+.back{
+  position: absolute;
+  left: 0;
+  top:0;
+  margin: 5%;
+}
+
+.pointUse{
+  width: 20%;
+}
+
+img{
+  width: 50%;
+}

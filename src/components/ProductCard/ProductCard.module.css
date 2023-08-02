@@ -1,0 +1,14 @@
+.container{
+  border: 2px black solid;
+  width: 40%;
+  margin: 2%;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+img{
+  width: 50%;
+}
